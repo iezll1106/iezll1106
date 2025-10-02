@@ -19,4 +19,14 @@ I'm **Liezl G. Lizardo**, a Clerk and IT Support Specialist with 21 years of gov
 - 📧 Email: [liezl1106@gmail.com](mailto:liezl1106@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/liezl-lizardo-b833353b](https://www.linkedin.com/in/liezl-lizardo-b833353b)  
 
+
+## My Projects 
+
+- This is one of my class projects using R programming language. [https://github.com/iezll1106/R_project]
+
+- This one of the projects I'm working for my office Document Management System using PHP and myPHPAdmin. [https://github.com/iezll1106/doc_inventory] Still a work in progress.
+
+- This one of my team project using next.js for the Next.js App Router Course. It contains the starting code for the dashboard application. [https://github.com/iezll1106/nextjs-dashboard]
+
+
 Feel free to explore my repositories and don’t hesitate to reach out. Happy coding! ✨  
