@@ -22,11 +22,11 @@ I'm **Liezl G. Lizardo**, a Clerk and IT Support Specialist with 21 years of gov
 
 ## My Projects 
 
-- This is one of my class projects using R programming language. [https://github.com/iezll1106/R_project]
+- R Project – A class project developed using the R programming language. [https://github.com/iezll1106/R_project]
 
-- This one of the projects I'm working for my office Document Management System using PHP and myPHPAdmin. [https://github.com/iezll1106/doc_inventory] Still a work in progress.
+- Document Management System – An ongoing office project built with PHP and MySQL (via phpMyAdmin). Currently a work in progress.  [https://github.com/iezll1106/doc_inventory]
 
-- This one of my team project using next.js for the Next.js App Router Course. It contains the starting code for the dashboard application. [https://github.com/iezll1106/nextjs-dashboard]
+- Next.js Dashboard – A team project for the Next.js App Router course, containing starter code for a dashboard application. [https://github.com/iezll1106/nextjs-dashboard]
 
 
 Feel free to explore my repositories and don’t hesitate to reach out. Happy coding! ✨  
